@@ -1,0 +1,25 @@
+.group_image img
+{
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.brand_image img
+{
+    border-radius: 50%;
+}
+
+.th_40{
+    width: 40px !important;
+}
+.th_10{
+    width: 10px !important;
+}
+.activate{
+    background-color: #FED700 !important;
+    color: black !important;
+}
